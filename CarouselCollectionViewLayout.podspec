@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.authors = { 'Paweł Dudek' => 'hello@dudek.mobi' }
   s.social_media_url = 'https://twitter.com/eldudi'
 
-  s.source =  { :git => 'https://github.com/paweldudek/carousel-collection-view-layout.git', :tag => "v#{s.version}" }
+  s.source =  { :git => 'https://github.com/fritzgerald/carousel-collection-view-layout.git', :branch => "framework-fix" }
   s.source_files = 'CarouselCollectionViewLayout/Classes/Lib/*'
 
   s.platform     = :ios, '7.0'
